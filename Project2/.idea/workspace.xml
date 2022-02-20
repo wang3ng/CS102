@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94c774fe-6ded-4e67-8db4-1d484741af82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1yluwdQsoSL9dmHody9KmKDdi2I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wang3\Desktop\projects\IJ\Project2" />
+      <recent name="C:\Users\wang3\Desktop\projects\IJ\Project2\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EveryPlaceHasAName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project2.EveryPlaceHasAName" />
+      <module name="Project2" />
+      <option name="PROGRAM_PARAMETERS" value="NY_Features_20210825.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EveryPlaceHasAName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94c774fe-6ded-4e67-8db4-1d484741af82" name="Default Changelist" comment="" />
+      <created>1632838735784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632838735784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1632838750707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1632838750707" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633909849383">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1633909849383" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1633360240468" />
+    <state x="612" y="183" key="#com.intellij.ide.util.MemberChooser" timestamp="1633353474022">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="612" y="183" key="#com.intellij.ide.util.MemberChooser/0.0.1536.832@0.0.1536.832" timestamp="1633353474022" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1632838799265" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1636052279135">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1636052279135" />
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1633378240205" />
+    <state x="614" y="298" key="Github.ShareDialog" timestamp="1633378495001">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="614" y="298" key="Github.ShareDialog/0.0.1536.832@0.0.1536.832" timestamp="1633378495001" />
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom" timestamp="1633922214990">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1633922214990" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1633360183906" />
+    <state width="1493" height="199" key="GridCell.Tab.0.center" timestamp="1633922214990">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1633922214990" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1633360183906" />
+    <state width="1493" height="199" key="GridCell.Tab.0.left" timestamp="1633922214990">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1633922214990" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1633360183906" />
+    <state width="1493" height="199" key="GridCell.Tab.0.right" timestamp="1633922214990">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1633922214990" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1633360183906" />
+    <state x="270" y="58" key="SettingsEditor" timestamp="1633378468994">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="270" y="58" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1633378468994" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1636060897532">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1636060897532" />
+    <state x="540" y="119" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1633323229043">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="540" y="119" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.832@0.0.1536.832" timestamp="1633323229043" />
+    <state x="431" y="150" width="672" height="665" key="search.everywhere.popup" timestamp="1633917219212">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="150" width="672" height="665" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1633917219212" />
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1633378478720" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project2$EveryPlaceHasAName.ic" NAME="EveryPlaceHasAName Coverage Results" MODIFIED="1633909824273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Project2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
